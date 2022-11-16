@@ -1,0 +1,9 @@
+{
+  "name": "Text Editor",
+  "short_name": "T.E",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Stay organized with your tasks!",
+  "background_color": "#7eb4e2"
+}
