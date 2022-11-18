@@ -7,7 +7,8 @@ Text Editor is a simple text editor app that functions both online and offline. 
 * ['Text Editor - Github'](https://github.com/KevinNg2/PWA-Text-Editor)
 * ['Text Editor Heroku Live Link'](https://pwa-te.herokuapp.com/)
 
-<!-- screenshots -->
+Screenshot of live application:
+![Note-Taker](images/Screenshot%202022-11-17%20164621.png)
 
 ## User Story
 ```
